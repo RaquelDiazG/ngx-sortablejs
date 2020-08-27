@@ -1,0 +1,11 @@
+import { Injectable } from '@angular/core';
+import * as i0 from "@angular/core";
+export class SortablejsService {
+}
+SortablejsService.ɵprov = i0.ɵɵdefineInjectable({ factory: function SortablejsService_Factory() { return new SortablejsService(); }, token: SortablejsService, providedIn: "root" });
+SortablejsService.decorators = [
+    { type: Injectable, args: [{
+                providedIn: 'root',
+            },] }
+];
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoic29ydGFibGVqcy5zZXJ2aWNlLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vLi4vcHJvamVjdHMvbmd4LXNvcnRhYmxlanMvc3JjL2xpYi9zb3J0YWJsZWpzLnNlcnZpY2UudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsT0FBTyxFQUFFLFVBQVUsRUFBRSxNQUFNLGVBQWUsQ0FBQzs7QUFLM0MsTUFBTSxPQUFPLGlCQUFpQjs7OztZQUg3QixVQUFVLFNBQUM7Z0JBQ1YsVUFBVSxFQUFFLE1BQU07YUFDbkIiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgeyBJbmplY3RhYmxlIH0gZnJvbSAnQGFuZ3VsYXIvY29yZSc7XG5cbkBJbmplY3RhYmxlKHtcbiAgcHJvdmlkZWRJbjogJ3Jvb3QnLFxufSlcbmV4cG9ydCBjbGFzcyBTb3J0YWJsZWpzU2VydmljZSB7XG5cbiAgLy8gb3JpZ2luYWwgbGlicmFyeSBjYWxscyB0aGUgZXZlbnRzIGluIHVubmF0dXJhbCBvcmRlclxuICAvLyBmaXJzdCB0aGUgaXRlbSBpcyBhZGRlZCwgdGhlbiByZW1vdmVkIGZyb20gdGhlIHByZXZpb3VzIGFycmF5XG4gIC8vIHRoaXMgaXMgYSB0ZW1wb3JhcnkgZXZlbnQgdG8gd29yayB0aGlzIGFyb3VuZFxuICAvLyBhcyBsb25nIGFzIG9ubHkgb25lIHNvcnRhYmxlIHRha2VzIHBsYWNlIGF0IGEgY2VydGFpbiB0aW1lXG4gIC8vIHRoaXMgaXMgZW5vdWdoIHRvIGhhdmUgYSBzaW5nbGUgYGdsb2JhbGAgZXZlbnRcbiAgdHJhbnNmZXI6IChpdGVtczogYW55W10pID0+IHZvaWQ7XG5cbn1cbiJdfQ==
